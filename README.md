@@ -1,0 +1,1 @@
+Manim example MovingFrameBox application

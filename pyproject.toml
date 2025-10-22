@@ -1,7 +1,7 @@
 [project]
 name = "manimations"
 version = "0.1.0"
-description = "Add your description here"
+description = "Manim example MovingFrameBox application"
 readme = "README.md"
 requires-python = ">=3.9,<3.14"
 dependencies = [
